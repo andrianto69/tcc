@@ -66,3 +66,8 @@ Suatu saat, bisa saja terjadi kita menggunakan komputer lain dan mengedit repo m
 ![Gambar langkah mengelola repo](image/undo1.PNG)
 ![Gambar langkah mengelola repo](image/undo2.PNG)
 ![Gambar langkah mengelola repo](image/undo3.PNG)
+
+Bisa juga kita melakukan undo sebelum push
+
+![Gambar langkah mengelola repo](image/undo-belum-push1.PNG)
+![Gambar langkah mengelola repo](image/undo-belum-push2.PNG)
