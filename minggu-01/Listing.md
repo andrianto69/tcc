@@ -4,15 +4,15 @@ Listing Praktikum
 
 1. Pada langkah pertama kita diarahkan untuk menginstal git dengan tutorial yang sudah disediakan. Namun pada PC praktikum sudah terdapat git-bash sehingga kita bisa dapat mengecek dengan cara membuka cmd kemudian mengetikan perintah seperti dibawah ini
 
-
 ![Gambar langkah install](image/cek-instalasi-git-via-cmd.PNG)
+
 
 ## Konfigurasi git
 
 1. Konfigurasi dilakukan untuk mencantumkan username dan email kita pada git, yaitu dengan cara menggunakan perintah seperti dibawah ini
 
-
 ![Gambar langkah konfigurasi](image/konfigurasi-git.PNG)
+
 
 ## Mengelola Repo Sendiri di Account Sendiri
 

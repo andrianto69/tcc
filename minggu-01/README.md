@@ -1,5 +1,5 @@
 My Awesome Project
 
-Ini isi proyek embuh cah kok baleni terus
+Ini isi proyek setelah revert
 
-Soale durung mudeng
+Ini isi 3
