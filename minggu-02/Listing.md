@@ -8,4 +8,5 @@ Listing Praktikum
 
 2. Kemudian membuat repo dengan author organisasi kita tadi
 
-![Gambar langkah mengelola repo](pic\create-repo.png)
+![Gambar langkah mengelola repo](pic/create-repo.png)
+
