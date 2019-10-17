@@ -27,3 +27,22 @@ command dibawah akan menampilkan log dari sebuah container
 
 6. Menjalankan docker dengan bash ubuntu dapat dilakukan dengan cara seperti berikut
 ![Gambar cek docker](img/Screenshot_11.png)
+
+
+## Deploy Static HTML Website as Container 
+link https://www.katacoda.com/courses/docker/create-nginx-static-web-server
+
+Pada praktik ini, Anda akan belajar cara membuat Docker untuk menjalankan situs web HTML statis menggunakan Nginx.
+
+1. Membuat dockerfile untuk membangun image menggunakan nginx:alpine dengan direktory di /usr/share/nginx/html
+![Gambar cek docker](img/Screenshot_12.png)
+
+2. Membuat HTML statis menggunakan command
+![Gambar cek docker](img/Screenshot_13.png)
+kemudian list image dapat dilihat dengan cara seperti ini
+![Gambar cek docker](img/Screenshot_14.png)
+
+3. Kemudian webserver image tadi bisa kita run dengan perintah sebagai berikut
+![Gambar cek docker](img/Screenshot_15.png)
+Selain itu kita dapat mengakses pada link yang sudah disediakan oleh katacoda
+![Gambar cek docker](img/Screenshot_16.png)
