@@ -49,12 +49,32 @@ Pada praktik ini, Anda akan belajar cara membuat Docker untuk menjalankan situs 
 2. Membuat HTML statis menggunakan command
 
     ![Gambar cek docker](img/Screenshot_13.png)
+    
     kemudian list image dapat dilihat dengan cara seperti ini
     ![Gambar cek docker](img/Screenshot_14.png)
 
 3. Kemudian webserver image tadi bisa kita run dengan perintah sebagai berikut
 
     ![Gambar cek docker](img/Screenshot_15.png)
-Selain itu kita dapat mengakses pada link yang sudah disediakan oleh katacoda
-
+    
+    Selain itu kita dapat mengakses pada link yang sudah disediakan oleh katacoda
     ![Gambar cek docker](img/Screenshot_16.png)
+
+
+## Building Container Images 
+link https://www.katacoda.com/courses/docker/2
+
+Docker image merupakan template dasar untuk docker container. Image ini berisi sistem oeprasi ataupun aplikasi yang sudah selesai. Docker image ini berfungsi untuk menjalankan container.
+
+1. Membuat docker file dengan isian sebagai berikut
+
+    ![Gambar cek docker](img/Screenshot_17.png)
+
+2. Kemudian image akan kita build dengan nama andrianto69-image
+
+    ![Gambar cek docker](img/Screenshot_18.png)
+    ![Gambar cek docker](img/Screenshot_19.png)
+
+3. cek image yang sudah kita buat dengan perintah docker images
+
+    ![Gambar cek docker](img/Screenshot_20.png)
