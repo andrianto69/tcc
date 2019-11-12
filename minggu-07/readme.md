@@ -24,3 +24,6 @@ Mendeploy di now
 
 Jika berhasil maka dapat diakses di https://next-project.anggoroandrianto69.now.sh/
 ![](img/Screenshot_7.png)
+
+Halaman pada zeit juga akan menampilkan next project yang sudah kita buat
+![](img/Screenshot_8.png)
