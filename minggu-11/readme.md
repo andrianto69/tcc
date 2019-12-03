@@ -13,3 +13,7 @@ Terdapat beberapa layanan IaaS yang dapat digunakan yaitu :
 ### Getting Started Iaas
 
 ### Arsitektur dan Konsep Deployment
+Architecture Alibaba Cloud  
+![1](image/1.png)
+
+Topik ini menjelaskan arsitektur Server Load Balancer (SLB). SLB digunakan dalam cluster, yang memungkinkan sinkronisasi sesi dan mengurangi pembuatan SPOF di server backend. Sebagai layanan penerusan lalu lintas, SLB meneruskan permintaan dari klien ke server backend melalui cluster SLB, dan server backend mengembalikan respons ke SLB melalui intranet.
