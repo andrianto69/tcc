@@ -11,6 +11,7 @@ Terdapat beberapa layanan IaaS yang dapat digunakan yaitu :
  * Alibaba Cloud ECS
 
 ### Getting Started Iaas
+#### Membuat akun di alibabacloud
 1. Akses link www.alibabacloud.com/campaign/free-trial dan klik Free Account.
 ![alt text](img/1.png)
 
@@ -30,5 +31,31 @@ Terdapat beberapa layanan IaaS yang dapat digunakan yaitu :
 6. Kemudian isi metode pembayaran yang anda inginkan
 ![alt text](img/7.png)
 ![alt text](img/9.png)
+
+#### Mencoba produk dengan layanan free trial
+1. Pastikan kita masuk ke akun Alibaba Cloud Anda dan menuju [link ini](https://www.alibabacloud.com/campaign/free-trial)
+
+2. Scroll kebawah pada Free Trial Detail area dan pilih instansi targetnya. Klik Try Now
+![alt text](img/10.png)
+
+3. Kemudian akan muncul tampilan di mana kita dapat mengatur opsi konfigurasi ECS
+![alt text](img/11.png)
+
+4. Ketika kita sudah yakin dengan konfigurasi ECSnya, checklist pada "accept the Terms and Conditions and terms, kemudian klik Try Now.
+
+5. VM kita akan disiapkan dan tersedia di Console Alibaba. Untuk melihat Console, klik saja tautan Console di kanan atas layar
+![alt text](img/12.png)
+
+6. Pada tampilan utama, pilih Eleastic Compute Service
+![alt text](img/13.png)
+
+7. Ini akan menampilkan ECS Console, di mana kita akan melihat gambaran umum dari instance saat ini. Klik Instance pada menu sebelah kiri.
+![alt text](img/14.png)
+
+8. Selanjutnya, kita akan melihat detail dari instance, dan setiap instance yang sudah ada yang mungkin akan kita atur.
+![alt text](img/15.png)
+
+9. 
+
 
 ### Arsitektur dan Konsep Deployment
