@@ -33,7 +33,9 @@ Terdapat beberapa layanan IaaS yang dapat digunakan yaitu :
 ![alt text](img/9.png)
 
 #### Mencoba produk dengan layanan free trial
-1. Pastikan kita masuk ke akun Alibaba Cloud Anda dan menuju [link ini](https://www.alibabacloud.com/campaign/free-trial)
+1. Pastikan kita masuk ke akun Alibaba Cloud Anda dan menuju 
+
+[link ini](https://www.alibabacloud.com/campaign/free-trial)
 
 2. Scroll kebawah pada Free Trial Detail area dan pilih instansi targetnya. Klik Try Now
 ![alt text](img/10.png)
@@ -58,6 +60,7 @@ Terdapat beberapa layanan IaaS yang dapat digunakan yaitu :
 ### Arsitektur dan Konsep Deployment
 
 ![](img/16.png)
+
 VM (virtual machine) merupakan sebuah sistem operasi atau aplikasi yang diinstall pada hypervisor dan memiliki fungsi layaknya perangkat fisik (hardware) atau bisa juga disebut sebagai duplikat dari komputer asli.
 
 Menurut Technopedia virtualisasi adalah sebuah proses pembuatan sesuatu yang awalnya berbentuk fisik menjadi berbentuk software atau virtual. misalnya sebuah sistem operasi, server dan alat penyimpanan dan perangkat jaringan. Software yang digunakan untuk virtualisasi dinamakan hypervisor. Software ini digunakan untuk membuat dan mengatur virtual machine.
