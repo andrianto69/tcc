@@ -55,7 +55,11 @@ Terdapat beberapa layanan IaaS yang dapat digunakan yaitu :
 8. Selanjutnya, kita akan melihat detail dari instance, dan setiap instance yang sudah ada yang mungkin akan kita atur.
 ![alt text](img/15.png)
 
-9. 
-
-
 ### Arsitektur dan Konsep Deployment
+
+![](img/16.png)
+VM (virtual machine) merupakan sebuah sistem operasi atau aplikasi yang diinstall pada hypervisor dan memiliki fungsi layaknya perangkat fisik (hardware) atau bisa juga disebut sebagai duplikat dari komputer asli.
+
+Menurut Technopedia virtualisasi adalah sebuah proses pembuatan sesuatu yang awalnya berbentuk fisik menjadi berbentuk software atau virtual. misalnya sebuah sistem operasi, server dan alat penyimpanan dan perangkat jaringan. Software yang digunakan untuk virtualisasi dinamakan hypervisor. Software ini digunakan untuk membuat dan mengatur virtual machine.
+
+Selain itu, hypervisor juga dapat berperan sebagai agen penghubung antara VM dengan perangkat fisik. Hypervisor dibagi menjadi dua jenis yaitu hypervisor tipe 1, tipe ini berjalan langsung diatas perangkat keras dan hypervisor tipe 2, tipe ini berjalan diatas host os contoh dari tipe ini adalah oracle virtualbox dan vmware workstation sedangkan untuk tipe 1 adalah vsphere dan citrix xen server. Hypervisor dapat menjalankan perangkat lunak apa pun yang berjalan pada perangkat keras bare metal sementara menyediakan isolasi dari perangkat keras yang sebenarnya.
